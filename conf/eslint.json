@@ -172,6 +172,7 @@
         "semi": 0,
         "semi-spacing": [0, {"before": false, "after": true}],
         "sort-vars": 0,
+        "sort-imports": [0, {"order": ["namespace", "named", "default"]}],
         "space-after-keywords": [0, "always"],
         "space-before-keywords": [0, "always"],
         "space-before-blocks": [0, "always"],
